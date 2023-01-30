@@ -1,0 +1,6 @@
+package es.goya;
+
+public class Clase11 {
+public String metodo1(){
+	String metodo="metodo1";
+	return metodo;
